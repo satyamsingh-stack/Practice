@@ -1,6 +1,5 @@
-// Expected Time Complexity: O(N)
-// Expected Auxiliary Space: O(1)
-
+// Expected Time Complexity:- O(N)
+// Expected Auxiliary Space:- O(1)
 
 class Solution{
     public:
