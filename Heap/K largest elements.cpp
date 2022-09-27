@@ -1,4 +1,4 @@
-// Expected Time Complexity: O(N log K)
+// Expected Time Complexity: O(N)
 // Expected Auxiliary Space: O(K)
 
 class Solution
